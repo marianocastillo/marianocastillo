@@ -26,7 +26,7 @@
 
 <!--Intro start-->
 - 🔭 Actualmente estoy trabajando en **WordPress, Bootstrap, CSS, HTML, Reactjs, Nextjs, Angular, PHP, TypeScript, C#, .NETCore.
-     Base de datos Mysql, Postgres, Sql Server.**
+     Base de datos Mysql, Postgres.**
 
 - 📫  No dude en ponerse en contacto conmigo **marianocastillo08@gmail.com**
 
