@@ -30,9 +30,9 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=wordpress,cs,php,dotnet,css,html,js,nodejs" />
-    <br>
-    <img src= "https://skillicons.dev/icons?i=react,mysql,git,github,postman, figma&theme=light, vscode,linux"/>
-    
+    <img src= "https://skillicons.dev/icons?i=react,mysql,git,github,postman,vscode,linux" />
+    <img src="https://skillicons.dev/icons?i=figma&theme=light"/>  
+    <img src="https://skillicons.dev/icons?i=angular,bootstrap,gitlab,mongodb,nextjs,ts,vercel,postgres"/> 
   </a>
 
 </p>
