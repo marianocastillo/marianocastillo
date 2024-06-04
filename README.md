@@ -16,9 +16,9 @@
 
 🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
 
-💻 unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
+💻 Unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
-📝 roles en el ámbito: desarrollador... emprendedor... programador freelance... y en un futuro quién sabe ☺️
+📝 Roles en el ámbito: Desarrollador... Emprendedor... Programador Freelance... y en un futuro quién sabe ☺️
 
 📫 Contacto: **marianocastillo08@gmail.com**
 <!--Intro end-->
