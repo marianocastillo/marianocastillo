@@ -13,7 +13,7 @@
 
 <p align="left">
 
-🎥 PEQUEÑO CREADOR DE CONTENIDO que transmite sus conocimientos 📚 a través de las redes en base a mucho estudio 😵 y experiencia
+🎥 Si desea impulsar su presencia en línea y destacar en el mundo digital, no busque más. Somos expertos en diseño profesional, ofreciéndole un servicio completo y personalizado a las necesidades específicas de su negocio. Desde crear una impresionante presencia online, hasta el diseño de una web responsive y fácil de usar, nos encargamos de todo el proceso para que usted pueda centrarse en hacer crecer su negocio. Además, nuestro enfoque en la conversión asegura que su sitio web no sólo se ve muy bien, pero sino que también convierta a los visitantes en clientes. Póngase en contacto con nosotros a construir una presencia en línea que realmente destaque.
 
 💻 Unos cuántos años de experiencia en el proceso de desarrollo de software (solo voy a decir más de 15 para no deschavar mi edad 🙈)
 
